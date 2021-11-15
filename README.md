@@ -1,2 +1,0 @@
-# lookahead-github.io
-Website
